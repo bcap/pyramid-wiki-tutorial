@@ -1,0 +1,17 @@
+# virtual env
+venv
+
+# built
+*.pyc
+*.egg
+*.egg-info
+build/
+dist/
+.coverage
+cover/
+
+# var
+*.sqlite
+
+# Mac
+.DS_Store
